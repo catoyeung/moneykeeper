@@ -1,0 +1,145 @@
+body {
+    background: #F3F0EB;
+}
+
+#header {
+    padding: 20px 30px 20px 30px;
+    background: #293943;
+    color: #FFFFFF;
+    border-bottom: 1px solid #555555;
+}
+
+h1 {
+    font: 24px "Palatino Linotype", Palatino, Georgia, serif;
+    text-align:center;
+}
+
+#dotted-hr {
+    margin: 2px 0px;
+    border-top: 1px dotted #000000;
+    color: #F3F0EB;
+    background-color: #F3F0EB;
+}
+
+#main {
+    padding: 20px 30px 20px 30px;
+    background: #F3F0EB;
+    color: #000000;
+}
+
+#brief {
+    margin: 0px auto;
+    padding: 15px;
+    width: 550px;
+    border-bottom: 1px dotted #6B5D38;
+    font: 18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#signin {
+    margin: 20px auto 0px auto;
+    padding: 15px;
+    width: 550px;
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: table;
+}
+
+#signin legend {
+    margin: 0px auto 10px auto;
+    font: 24px "Palatino Linotype", Palatino, Georgia, serif;
+    color: #6B5D38;
+}
+
+#signin-table {
+    margin: 0px auto 5px auto;
+    font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#signin-table th {
+    padding-right: 5px;
+    text-align: right;
+}
+
+#signin #signin-btn {
+    font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    display: block;
+}
+
+#signin #signup-btn {
+    margin: 0px auto 0px auto;
+    padding: 3px;
+    background: none;
+    display: block;
+    color: #6B5D38;
+    border: none;
+    font: 18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+    cursor: pointer;
+    text-align: center;
+}
+
+#signup {
+    margin: 20px auto 0px auto;
+    padding: 15px;
+    width: 550px;
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: table;
+}
+
+#signup legend {
+    margin: 0px auto 10px auto;
+    font: 24px "Palatino Linotype", Palatino, Georgia, serif;
+    color: #6B5D38;
+}
+
+#signup-table {
+    margin: 0px auto 5px auto;
+    font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#signup-table th {
+    padding-right: 5px;
+    text-align: right;
+}
+
+#signup-result {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#got-account {
+    margin-bottom: 5px;
+    text-align: center;
+    font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#got-account a {
+    color: #6B5D38;
+}
+
+#signup .submit-btn {
+    font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    display: block;
+}
+
+.submit-btn a {
+    text-decoration: none;
+    color: #000000;
+}
+
+#footer {
+    padding: 20px 30px 20px 30px;
+    background: #F3F0EB;
+    color: #000000;
+}
+
+#copyright {
+    margin: 0px auto;
+    text-align: center;
+    font: 13px "Palatino Linotype", Palatino, Georgia, serif;
+}
+
+.center {
+    margin: 0px auto 0px auto;
+}
